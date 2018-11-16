@@ -1,0 +1,12 @@
+*.aux
+misc/*.aux
+*.bbl
+*.blg
+*.toc
+*.log
+!Front.pdf
+main.pdf
+*.iml
+!.gitkeep
+*.synctex.gz
+*.out
